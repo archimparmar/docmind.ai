@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+backend/data/uploads/*
+backend/data/faiss_index/*
+!backend/data/uploads/.gitkeep
+!backend/data/faiss_index/.gitkeep
+.DS_Store
