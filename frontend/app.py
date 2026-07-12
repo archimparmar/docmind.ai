@@ -10,7 +10,7 @@ in st.session_state to survive reruns.
 import requests
 import streamlit as st
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://docmind-ai-5b7h.onrender.com"
 
 st.set_page_config(page_title="DocMind AI", page_icon="📄", layout="centered")
 st.title("📄 DocMind AI")
