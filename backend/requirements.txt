@@ -16,4 +16,4 @@ pdfplumber==0.11.5
 pypdf==5.1.0
 
 # Local vector store
-faiss-cpu==1.9.0.post1
+faiss-cpu==1.12.0
